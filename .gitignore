@@ -1,3 +1,6 @@
+.idea/
+Introducción a Django_12/
+*.png
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
